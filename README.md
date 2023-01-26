@@ -1,2 +1,2 @@
 # givaudan-test
-Givaudan technical test
+Givaudan backend technical test
